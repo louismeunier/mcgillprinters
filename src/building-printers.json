@@ -1,0 +1,4020 @@
+[
+   {
+     "Building Name": "Adams Building",
+     "Room": "237",
+     "Department": "Earth and Planetary Sciences",
+     "Serial Number": "EHQ213128",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Adams Building",
+     "Room": "22D",
+     "Department": "Engineering - Dean's Office",
+     "Serial Number": "EHQ213091",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Adams Building",
+     "Room": "6",
+     "Department": "McGill Institute of Advanced Materials",
+     "Serial Number": "EKZ338259",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Adams Building",
+     "Room": "123",
+     "Department": "Mining and Materials",
+     "Serial Number": "EHQ230177",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Adams Building",
+     "Room": "Lobby",
+     "Department": "Public machine",
+     "Serial Number": "EHQ213142",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Adams Building",
+     "Room": "Outside Room 2",
+     "Department": "Public machine",
+     "Serial Number": "EHQ230204",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Adams Building",
+     "Room": "1st Floor",
+     "Department": "Science",
+     "Serial Number": "EKZ338257",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Alice Johannsen Building",
+     "Room": "704",
+     "Department": "Gault Nature Reserve",
+     "Serial Number": "EKZ338524",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Armstrong Building",
+     "Room": "155",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "E1B085462",
+     "Model": "WC6655"
+   },
+   {
+     "Building Name": "Armstrong Building",
+     "Room": "155P",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212808",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Armstrong Building",
+     "Room": "65",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212803",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Armstrong Building",
+     "Room": "Outside room 185",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212813",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Armstrong Building",
+     "Room": "Outside room 285",
+     "Department": "Public machine",
+     "Serial Number": "EHQ229579",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Armstrong Building",
+     "Room": "Outside room 389",
+     "Department": "Public machine",
+     "Serial Number": "EHQ229691",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Barton Building",
+     "Room": "207 (staff area)",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ216038",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Barton Building",
+     "Room": "213",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215911",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Barton Building",
+     "Room": "307",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215989",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Barton Building",
+     "Room": "Outside room 204",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231366",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Barton Building",
+     "Room": "Outside room 213",
+     "Department": "Public machine",
+     "Serial Number": "EHQ230921",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Birks Building",
+     "Room": "115",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231376",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Birks Building",
+     "Room": "114",
+     "Department": "Religious Studies",
+     "Serial Number": "EHQ210442",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Birks Building",
+     "Room": "302",
+     "Department": "Religious Studies",
+     "Serial Number": "EHQ211256",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bishop Mountain Hall",
+     "Room": "Main floor hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ214202",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bishop Mountain Hall",
+     "Room": "Reception Office",
+     "Department": "Residences & Student Housing",
+     "Serial Number": "EHQ213983",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "501",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "E1B088999",
+     "Model": "WC6655"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "110",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212815",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "304",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212838",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "381",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212840",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "454",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212850 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "476",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212862 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "Outside room 517",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212863",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "Outside room 543",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212866",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "650",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212881",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "454",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212903",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "476",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212913",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "Outside room 561",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ212915",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "649",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EKZ337960",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "104",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ229573",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "2nd Floor hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212816",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "424",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212849",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "350",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212884",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "7",
+     "Department": "Public machine",
+     "Serial Number": "EHQ229568",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "2nd Floor hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ229574",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "7",
+     "Department": "Public machine",
+     "Serial Number": "EHQ228520",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Bronfman Building",
+     "Room": "Outside room 016",
+     "Department": "Public machine",
+     "Serial Number": "EHQ217075",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "5100",
+     "Department": "Student Services",
+     "Serial Number": "EKZ340767",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "2200",
+     "Department": "Student Services",
+     "Serial Number": "EHQ211140",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "3200",
+     "Department": "Student Services",
+     "Serial Number": "EHQ211144",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "3106",
+     "Department": "Student Services",
+     "Serial Number": "EHQ211184",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "4100",
+     "Department": "Student Services",
+     "Serial Number": "EHQ211196",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "4200",
+     "Department": "Student Services",
+     "Serial Number": "EHQ211264",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "5505",
+     "Department": "Student Services",
+     "Serial Number": "EHQ211394",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "2100",
+     "Department": "Student Services",
+     "Serial Number": "EKZ338228",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "3108",
+     "Department": "Student Services",
+     "Serial Number": "EKZ338229",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Brown Student Services",
+     "Room": "3401",
+     "Department": "Student Services",
+     "Serial Number": "EHQ229695",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "945",
+     "Department": "Atmospheric and Oceanic Sciences",
+     "Serial Number": "EKZ343068",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "942",
+     "Department": "Atmospheric and Oceanic Sciences",
+     "Serial Number": "EHQ230216",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "703",
+     "Department": "Climate and Global Change Research",
+     "Serial Number": "EHQ213236",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "Burnside Garage",
+     "Department": "Facilities Operations",
+     "Serial Number": "EKZ338260",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "703",
+     "Department": "Geography",
+     "Serial Number": "EHQ213228",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "427",
+     "Department": "Geography",
+     "Serial Number": "EKZ338255",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "107",
+     "Department": "Graphics and Multimedia",
+     "Serial Number": "EKZ338262",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "1011",
+     "Department": "Mathematics and Statistics",
+     "Serial Number": "EHQ213203",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "Outside room 225",
+     "Department": "Network and Communications Services",
+     "Serial Number": "E1B983724",
+     "Model": "WC6655"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "206",
+     "Department": "Network and Communications Services",
+     "Serial Number": "EHQ213218",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "1B7",
+     "Department": "Network and Communications Services",
+     "Serial Number": "EKZ338261",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "508",
+     "Department": "Public machine",
+     "Serial Number": "EHQ230176",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "Outside room 1B11",
+     "Department": "Public machine",
+     "Serial Number": "EHQ230206",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "Outside room 1B11",
+     "Department": "Public machine",
+     "Serial Number": "EHQ214162",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "1B16",
+     "Department": "Science",
+     "Serial Number": "EFQ644935",
+     "Model": "Altalink C8170"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "1B17",
+     "Department": "Science",
+     "Serial Number": "EFQ645483",
+     "Model": "Altalink C8170"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "1b172",
+     "Department": "Science",
+     "Serial Number": "EFQ647680",
+     "Model": "Altalink C8170"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "1B16",
+     "Department": "Science",
+     "Serial Number": "EFQ647543",
+     "Model": "Altalink C8170"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "115K",
+     "Department": "Security - Downtown",
+     "Serial Number": "EHQ213207",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Burnside Hall",
+     "Room": "123",
+     "Department": "Security - Downtown",
+     "Serial Number": "EHQ213211",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "C.I.N.E.",
+     "Room": "101",
+     "Department": "Indigenous Peoples' Nutrition and Environment",
+     "Serial Number": "EHQ216700",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Centennial Centre",
+     "Room": "040",
+     "Department": "Lyman Entomological Museum",
+     "Serial Number": "EKZ338605",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Centennial Centre",
+     "Room": "124",
+     "Department": "Macdonald Campus Student Services",
+     "Serial Number": "EHQ230529",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Centennial Centre",
+     "Room": "Outside room 150",
+     "Department": "Public machine",
+     "Serial Number": "EHQ216043",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Chancellor Day Hall",
+     "Room": "Outside room 502",
+     "Department": "Law",
+     "Serial Number": "EHQ211842",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Chancellor Day Hall",
+     "Room": "Outside room 300A",
+     "Department": "Law",
+     "Serial Number": "EHQ211864",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Chancellor Day Hall",
+     "Room": "3rd floor under the stairs",
+     "Department": "Law",
+     "Serial Number": "EHQ211868",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Chancellor Day Hall",
+     "Room": "25",
+     "Department": "Law",
+     "Serial Number": "EHQ211873",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Chancellor Day Hall",
+     "Room": "14",
+     "Department": "Law",
+     "Serial Number": "EHQ211877",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Chancellor Day Hall",
+     "Room": "432",
+     "Department": "Law",
+     "Serial Number": "EKZ337590",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Chancellor Day Hall",
+     "Room": "Outside room 618",
+     "Department": "Law",
+     "Serial Number": "EHQ231952",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Côte des Neiges 5858",
+     "Room": "Outside room 344",
+     "Department": "Family Medicine",
+     "Serial Number": "EHQ210903",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Côte des Neiges 5858",
+     "Room": "Outside room 344",
+     "Department": "Family Medicine",
+     "Serial Number": "EHQ210929",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Côte des Neiges 5858",
+     "Room": "510",
+     "Department": "Family Medicine",
+     "Serial Number": "EHQ213156",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "21",
+     "Department": "Athletics - Downtown Campus",
+     "Serial Number": "EKZ343622",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "G3",
+     "Department": "Athletics - Downtown Campus",
+     "Serial Number": "EKZ343630",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "225",
+     "Department": "Athletics - Downtown Campus",
+     "Serial Number": "EHQ213963",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "G21",
+     "Department": "Athletics - Downtown Campus",
+     "Serial Number": "EHQ213972",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "B224/Corridor",
+     "Department": "Enrolment Services",
+     "Serial Number": "EHQ213970",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "207",
+     "Department": "Kinesiology and Physical Education",
+     "Serial Number": "EHQ213969",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "G55",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ231711",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "Outside room 352",
+     "Department": "Public machine",
+     "Serial Number": "EHQ213957",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "A207",
+     "Department": "Public machine",
+     "Serial Number": "EHQ213967",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "317",
+     "Department": "Sports Medicine Clinic",
+     "Serial Number": "EHQ213303",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Currie Gymnasium",
+     "Room": "G20",
+     "Department": "Athletics - Downtown Campus",
+     "Serial Number": "E1B975422",
+     "Model": "WC6655"
+   },
+   {
+     "Building Name": "Davis House",
+     "Room": "Outside room B6",
+     "Department": "Physical & Occupational Therapy",
+     "Serial Number": "EKZ338475",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Davis House",
+     "Room": "6",
+     "Department": "Physical & Occupational Therapy",
+     "Serial Number": "EHQ231995",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Dawson Hall",
+     "Room": "Outside room 317",
+     "Department": "Arts and Science Adm. Services (shared)",
+     "Serial Number": "EHQ230167",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Dawson Hall",
+     "Room": "215",
+     "Department": "Arts and Science Adm. Services (shared)",
+     "Serial Number": "EHQ213675",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Dawson Hall",
+     "Room": "110",
+     "Department": "Arts and Science Adm. Services (shared)",
+     "Serial Number": "EHQ214274",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "De Maisonneuve 5100",
+     "Room": "730",
+     "Department": "Gerald Bronfman Building Department of Oncology",
+     "Serial Number": "EHQ211087",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "De Maisonneuve 5100",
+     "Room": "720",
+     "Department": "Gerald Bronfman Building Department of Oncology",
+     "Serial Number": "EHQ211221",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Douglas Hall",
+     "Room": "DAC‐02",
+     "Department": "Public machine",
+     "Serial Number": "EHQ214161",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Duff Medical Building",
+     "Room": "312-B",
+     "Department": "Biomedical Engineering",
+     "Serial Number": "EHQ213974",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Duff Medical Building",
+     "Room": "C18‐332",
+     "Department": "Medicine",
+     "Serial Number": "EHQ213982",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Duff Medical Building",
+     "Room": "511",
+     "Department": "Microbiology & Immunology",
+     "Serial Number": "EHQ213975",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Duff Medical Building",
+     "Room": "Outside room 514",
+     "Department": "Microbiology & Immunology",
+     "Serial Number": "EHQ213976",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Duff Medical Building",
+     "Room": "Outside room 401",
+     "Department": "Microbiology & Immunology",
+     "Serial Number": "EKZ338230",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Duff Medical Building",
+     "Room": "Outside room B8",
+     "Department": "Pathology",
+     "Serial Number": "EHQ231700",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Duggan House",
+     "Room": "202",
+     "Department": "Educational and Counselling Psychology",
+     "Serial Number": "EHQ211892",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Duggan House Annex",
+     "Room": "103",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ211839",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Durocher 3465",
+     "Room": "Outside room 405",
+     "Department": "Financial Services",
+     "Serial Number": "EHQ212208",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Durocher 3465",
+     "Room": "226",
+     "Department": "Financial Services",
+     "Serial Number": "EHQ215353",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Durocher 3465",
+     "Room": "Outside room 302",
+     "Department": "Financial Services",
+     "Serial Number": "EHQ215355",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Durocher 3465",
+     "Room": "315",
+     "Department": "Financial Services",
+     "Serial Number": "EHQ215356",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Durocher 3465",
+     "Room": "233",
+     "Department": "McGill Bookstore",
+     "Serial Number": "EHQ214204",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Durocher 3465",
+     "Room": "117",
+     "Department": "McGill Bookstore",
+     "Serial Number": "EKZ338703",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Durocher 3465",
+     "Room": "Outside room 1h",
+     "Department": "Printing Services",
+     "Serial Number": "EHQ215352",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Durocher 3465",
+     "Room": "108B",
+     "Department": "Procurement Services",
+     "Serial Number": "EHQ215345",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "230",
+     "Department": "Education - Dean's Office",
+     "Serial Number": "EHQ217530",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "243",
+     "Department": "Education - Dean's Office",
+     "Serial Number": "EHQ217531",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "244",
+     "Department": "Education - Dean's Office",
+     "Serial Number": "EHQ217533",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "328",
+     "Department": "Education - Dean's Office",
+     "Serial Number": "EHQ217549",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "438",
+     "Department": "Education - Dean's Office",
+     "Serial Number": "EHQ217552",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "614",
+     "Department": "Education - Dean's Office",
+     "Serial Number": "EHQ217557",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "113",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211345",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "Study lab area",
+     "Department": "Public machine",
+     "Serial Number": "EHQ217523",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "Outside room B109",
+     "Department": "Public machine",
+     "Serial Number": "EHQ217528",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "Outside room 202",
+     "Department": "Public machine",
+     "Serial Number": "EHQ217529",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "519H",
+     "Department": "Public machine",
+     "Serial Number": "EHQ217553",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "Outside room 403",
+     "Department": "Public machine",
+     "Serial Number": "EHQ217574",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Education Building",
+     "Room": "Outside room 614",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231962",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "A-515",
+     "Department": "Marvin Duchow Music Library",
+     "Serial Number": "EHQ215363",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "A315",
+     "Department": "Marvin Duchow Music Library",
+     "Serial Number": "EKZ338716",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "A419",
+     "Department": "Marvin Duchow Music Library",
+     "Serial Number": "EKZ338717",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "4th Floor Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215236",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "5th Floor Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215240",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "Library 3rd floor",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231690",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "Library 3rd floor",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231688",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "608",
+     "Department": "Schulich School of Music",
+     "Serial Number": "EHQ215229",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "Hallway 7th Floor",
+     "Department": "Schulich School of Music",
+     "Serial Number": "EHQ215230",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "Outside Rm A619",
+     "Department": "Schulich School of Music",
+     "Serial Number": "EHQ215231",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "A728",
+     "Department": "Schulich School of Music",
+     "Serial Number": "EHQ215232",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "A809",
+     "Department": "Schulich School of Music",
+     "Serial Number": "EKZ338727",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Elizabeth Wirth Music Building",
+     "Room": "A609",
+     "Department": "Schulich School of Music",
+     "Serial Number": "EHQ231672",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Facilities Management",
+     "Room": "Outside room 210",
+     "Department": "Facilities Operations",
+     "Serial Number": "EHQ217240",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Faculty Club",
+     "Room": "312",
+     "Department": "Faculty Club",
+     "Serial Number": "EHQ211406",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Faculty Club",
+     "Room": "316",
+     "Department": "Faculty Club",
+     "Serial Number": "EKZ338233 ",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Farm Centre",
+     "Room": "Outside room FC10",
+     "Department": "Macdonald Campus Farm",
+     "Serial Number": "EHQ217252",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "Garage",
+     "Department": "Building Operations",
+     "Serial Number": "EKZ338246",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "203",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ211925",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "351A",
+     "Department": "Facilities Operations",
+     "Serial Number": "EKZ338023",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "113",
+     "Department": "Facilities Operations",
+     "Serial Number": "EKZ338240",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "Power House",
+     "Department": "Facilities Operations",
+     "Serial Number": "EKZ338243",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "Outside room 451",
+     "Department": "French Language Centre",
+     "Serial Number": "EHQ212113",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "335",
+     "Department": "History and Classical Studies",
+     "Serial Number": "EKZ338242",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "102",
+     "Department": "McGill Institute for the Study of Canada",
+     "Serial Number": "EHQ229990",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "303",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211931",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "303",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211935",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Ferrier Building",
+     "Room": "475",
+     "Department": "Public machine",
+     "Serial Number": "EHQ229991",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gatineau",
+     "Room": "A2006",
+     "Department": "Faculty of Medicine & Health Sciences",
+     "Serial Number": "EHQ212957",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gatineau",
+     "Room": "A2055",
+     "Department": "Faculty of Medicine & Health Sciences",
+     "Serial Number": "EKZ337779",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Gault House",
+     "Room": "211",
+     "Department": "Gault Nature Reserve",
+     "Serial Number": "EHQ211309",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "2102 (Circulation desk)",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EKZ338496",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "2153",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EKZ338497",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "Atrium",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211803",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "5055",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211818",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "4055",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211831",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "3055",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211832",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "1301",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211838",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "1301",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211855",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "1116",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211891",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Gelber Law Library",
+     "Room": "2018",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231953",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Harrison House",
+     "Room": "105",
+     "Department": "Farm Management and Technology Program ",
+     "Serial Number": "EHQ231367",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Horticulture Centre",
+     "Room": "01",
+     "Department": "Madonald Campus Farm",
+     "Serial Number": "E1B983772",
+     "Model": "WC6655"
+   },
+   {
+     "Building Name": "Hosmer House",
+     "Room": "Outside room 204",
+     "Department": "Physical & Occupational Therapy",
+     "Serial Number": "EHQ208189",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Hosmer House",
+     "Room": "100",
+     "Department": "Physical & Occupational Therapy",
+     "Serial Number": "EHQ217501",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Hugesson House",
+     "Room": "Outside room 304",
+     "Department": "Medicine",
+     "Serial Number": "EHQ211896",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Hugesson House",
+     "Room": "206",
+     "Department": "Medicine",
+     "Serial Number": "EHQ211921",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Hugesson House",
+     "Room": "108",
+     "Department": "Medicine",
+     "Serial Number": "EHQ211934",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Hutchison 3464",
+     "Room": "1‐HALL2",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215360",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "110",
+     "Department": "Communications and External Relations",
+     "Serial Number": "EHQ230163",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "519",
+     "Department": "Governmental and Institutional Affairs",
+     "Serial Number": "EHQ212922",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "400",
+     "Department": "Graduate and Postdoctoral Studies Office",
+     "Serial Number": "EHQ212366",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "Outside room 318",
+     "Department": "Legal Services",
+     "Serial Number": "EHQ212289",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "318",
+     "Department": "Legal Services",
+     "Serial Number": "EHQ212357",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "506",
+     "Department": "Principal and Vice-Chancellor",
+     "Serial Number": "EHQ212917",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "Outside room 633",
+     "Department": "Principal and Vice-Chancellor",
+     "Serial Number": "EHQ212934",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "504",
+     "Department": "Provost & Vice-Principal (Academic)",
+     "Serial Number": "EHQ212843",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "Outside room 633",
+     "Department": "Provost & Vice-Principal (Academic)",
+     "Serial Number": "EHQ212929",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "211",
+     "Department": "Vice-Principal (Research and Innovation)",
+     "Serial Number": "EKZ338266",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "Outside room 212",
+     "Department": "Vice-Principal (Research and Innovation)",
+     "Serial Number": "EHQ228514",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "Outside room 325",
+     "Department": "University Secretariat",
+     "Serial Number": "EHQ212360",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "524",
+     "Department": "Vice-Principal (Administration and Finance)",
+     "Serial Number": "EHQ230123",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "531",
+     "Department": "Vice-Principal (Administration and Finance)",
+     "Serial Number": "EHQ230132",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "536",
+     "Department": "Vice-Principal (Administration and Finance)",
+     "Serial Number": "EHQ230021",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "James Administration Building",
+     "Room": "Outside room 422",
+     "Department": "Vice-Principal (Research and Innovation)",
+     "Serial Number": "EHQ212381",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "La Citadelle Residence",
+     "Room": "Lobby",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231677",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Lady Meredith House",
+     "Room": "2HALL1",
+     "Department": "Faculty Development (Faculty of Medicine)",
+     "Serial Number": "EKZ338479",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Lady Meredith House",
+     "Room": "103",
+     "Department": "Faculty Development (Faculty of Medicine)",
+     "Serial Number": "EHQ231971 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Lady Meredith House",
+     "Room": "Outside room 13 (basement)",
+     "Department": "Faculty Development (Faculty of Medicine)",
+     "Serial Number": "EKZ343779",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Lady Meredith House",
+     "Room": "Outside room 207",
+     "Department": "Faculty Development (Faculty of Medicine)",
+     "Serial Number": "EHQ231992",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Laird Hall",
+     "Room": "103",
+     "Department": "Academic & Administrative services",
+     "Serial Number": "EKZ338518",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Laird Hall",
+     "Room": "199B",
+     "Department": "Agricultural and Environmental Sciences - Dean's Office",
+     "Serial Number": "EHQ210863",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Laird Hall",
+     "Room": "199A",
+     "Department": "Information Technology Customer Services",
+     "Serial Number": "EKZ338519",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Laird Hall",
+     "Room": "106",
+     "Department": "Macdonald Campus Student Services",
+     "Serial Number": "EHQ229215",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Laird Hall",
+     "Room": "Residence area",
+     "Department": "Public machine",
+     "Serial Number": "EHQ210837",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Laird Hall",
+     "Room": "107",
+     "Department": "Residences & Student Housing",
+     "Serial Number": "EHQ210886",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Laird Hall",
+     "Room": "101",
+     "Department": "Security Services - Mac",
+     "Serial Number": "E1B983739",
+     "Model": "WC6655"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "731",
+     "Department": "Anthropology",
+     "Serial Number": "EHQ212141",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "414",
+     "Department": "Economics, Philosophy and Political Science",
+     "Serial Number": "EHQ230011",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "624",
+     "Department": "History and Classical Studies",
+     "Serial Number": "EHQ212140",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "624",
+     "Department": "History and Classical Studies",
+     "Serial Number": "EKZ338250",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "944",
+     "Department": "Philosophy",
+     "Serial Number": "EHQ230015",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "523",
+     "Department": "Political Science",
+     "Serial Number": "EHQ212166",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "Outside room 31",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212155",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "Outside room 324",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338239",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "Outside Room 107",
+     "Department": "Public machine",
+     "Serial Number": "EHQ230007",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "718",
+     "Department": "Sociology",
+     "Serial Number": "EKZ342995",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "712",
+     "Department": "Sociology",
+     "Serial Number": "EKZ340852",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Leacock Building",
+     "Room": "731",
+     "Department": "Sociology",
+     "Serial Number": "EHQ230008",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Life Sciences Complex",
+     "Room": "437",
+     "Department": "Biochemistry",
+     "Serial Number": "EHQ231993",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Life Sciences Complex",
+     "Room": "276",
+     "Department": "Biology",
+     "Serial Number": "EKZ337576",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Life Sciences Complex",
+     "Room": "Outside room 501",
+     "Department": "Medicine",
+     "Serial Number": "EKZ338432",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Life Sciences Complex",
+     "Room": "Outside room 150",
+     "Department": "Physiology",
+     "Serial Number": "EHQ212390",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Life Sciences Complex",
+     "Room": "337",
+     "Department": "Public machine",
+     "Serial Number": "EKZ343792",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Life Sciences Complex",
+     "Room": "Outside room 530",
+     "Department": "Public machine",
+     "Serial Number": "EKZ343805",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Life Sciences Complex",
+     "Room": "601",
+     "Department": "Rosalind and Morris Goodman Cancer Centre",
+     "Serial Number": "EHQ215226",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Lods Agronomy Research Centre",
+     "Room": "Outside room 4",
+     "Department": "Macdonald Campus Farm",
+     "Serial Number": "EKZ338611",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Ludmer Building",
+     "Room": "Outside room 414",
+     "Department": "Animal Resources Centre",
+     "Serial Number": "EHQ212245",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Ludmer Building",
+     "Room": "228",
+     "Department": "Psychiatry",
+     "Serial Number": "EHQ216616",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Ludmer Building",
+     "Room": "126",
+     "Department": "Psychiatry",
+     "Serial Number": "EHQ231951",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Maass Chemistry Building",
+     "Room": "322",
+     "Department": "Chemistry",
+     "Serial Number": "EHQ213244",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Maass Chemistry Building",
+     "Room": "Outside room 21",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338263",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Maass Chemistry Building",
+     "Room": "Outside room 329",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231380",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "492",
+     "Department": "Civil Engineering & Applied Mechanics",
+     "Serial Number": "EHQ214354",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "492",
+     "Department": "Civil Engineering & Applied Mechanics",
+     "Serial Number": "EHQ214371",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "378",
+     "Department": "Faculty of Engineering",
+     "Serial Number": "EHQ215197",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "270",
+     "Department": "Mechanical Engineering",
+     "Serial Number": "EHQ215199",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "Outside room 264",
+     "Department": "Public machine",
+     "Serial Number": "EHQ214286",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "Outside room 451",
+     "Department": "Public machine",
+     "Serial Number": "EHQ214682",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "Outside room 286",
+     "Department": "Public machine",
+     "Serial Number": "EHQ214728",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "Outside room 361",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215202",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "Basement, in the atrium",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338267",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "Outside room 50",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231381",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Engineering",
+     "Room": "50",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231382",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Harrington Building",
+     "Room": "Outside room 512",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215180",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Harrington Building",
+     "Room": "103",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215181",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Harrington Building",
+     "Room": "Outside room 312",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215210",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Harrington Building",
+     "Room": "410",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215211",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Harrington Building",
+     "Room": "G15",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215216",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Harrington Building",
+     "Room": "400",
+     "Department": "Urban Planning",
+     "Serial Number": "EHQ215083",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald Harrington Building",
+     "Room": "201",
+     "Department": "Peter Guo-hua School of Architecture",
+     "Serial Number": "EHQ215209",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald-Stewart Building",
+     "Room": "MS2-019 (Hallway)",
+     "Department": "Agricultural and Environmental Sciences - Dean's Office",
+     "Serial Number": "EHQ214172",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald-Stewart Building",
+     "Room": "1‐201",
+     "Department": "Animal Science",
+     "Serial Number": "EHQ214182",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald-Stewart Building",
+     "Room": "MS1‐059",
+     "Department": "Bioresource Engineering",
+     "Serial Number": "EHQ214193",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald-Stewart Building",
+     "Room": "MS1-034",
+     "Department": "Food Science and Agricultural Chemistry",
+     "Serial Number": "EHQ214194",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald-Stewart Building",
+     "Room": "MS2-039C",
+     "Department": "Human Nutrition",
+     "Serial Number": "EHQ214127",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald-Stewart Building",
+     "Room": "outside Rm MS3 045",
+     "Department": "Natural Resource Sciences",
+     "Serial Number": "EHQ213887",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald-Stewart Building",
+     "Room": "MS2-070",
+     "Department": "Natural Resource Sciences",
+     "Serial Number": "EHQ213892",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald-Stewart Building",
+     "Room": "MS‐2‐027",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211999",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Macdonald-Stewart Building",
+     "Room": "M2-027",
+     "Department": "Public machine",
+     "Serial Number": "EHQ213884",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Martlet House",
+     "Room": "513",
+     "Department": "Development & Alumni Relations Services",
+     "Serial Number": "EHQ210552",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Martlet House",
+     "Room": "Outsside room 412",
+     "Department": "Development & Alumni Relations Services",
+     "Serial Number": "EHQ210606",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Martlet House",
+     "Room": "313",
+     "Department": "Development & Alumni Relations Services",
+     "Serial Number": "EHQ210608",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Martlet House",
+     "Room": "2nd Floor Hallway",
+     "Department": "Development & Alumni Relations Services",
+     "Serial Number": "EHQ210616",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Martlet House",
+     "Room": "Outside room 108",
+     "Department": "Development & Alumni Relations Services",
+     "Serial Number": "EKZ338500",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McCall Macbain Arts",
+     "Room": "W‐205",
+     "Department": "Art History and Communications Studies",
+     "Serial Number": "EHQ230168",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McCall Macbain Arts",
+     "Room": "Outside room 265",
+     "Department": "French Language and Literature",
+     "Serial Number": "EHQ230172",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McCall Macbain Arts",
+     "Room": "Outside room 25A",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212187",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McCall Macbean Arts",
+     "Room": "136",
+     "Department": "Arts - Dean's Office",
+     "Serial Number": "EHQ212282",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McCall Macbean Arts",
+     "Room": "Basement room A",
+     "Department": "English",
+     "Serial Number": "EHQ212239",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McCall Macbean Arts",
+     "Room": "Basement room A",
+     "Department": "English",
+     "Serial Number": "EHQ212274",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McConnell Engineering Building",
+     "Room": "350",
+     "Department": "Bioengineering",
+     "Serial Number": "EHQ231373",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McConnell Engineering Building",
+     "Room": "318",
+     "Department": "Computer Science",
+     "Serial Number": "EHQ215191",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McConnell Engineering Building",
+     "Room": "318",
+     "Department": "Computer Science",
+     "Serial Number": "EKZ338268",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McConnell Engineering Building",
+     "Room": "330",
+     "Department": "Computer Science",
+     "Serial Number": "EKZ338269",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McConnell Engineering Building",
+     "Room": "753",
+     "Department": "Electrical and Computer Engineering",
+     "Serial Number": "EHQ215215",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McConnell Engineering Building",
+     "Room": "633",
+     "Department": "Electrical and Computer Engineering",
+     "Serial Number": "EHQ231375",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McConnell Engineering Building",
+     "Room": "834",
+     "Department": "Electrical and Computer Engineering",
+     "Serial Number": "EKZ343612",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McConnell Engineering Building",
+     "Room": "MC‐10",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215188",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McConnell Engineering Building",
+     "Room": "Outside room 521",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215212",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "800",
+     "Department": "Communications Sciences & Disorders",
+     "Serial Number": "EHQ211530",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "840",
+     "Department": "Communications Sciences & Disorders",
+     "Serial Number": "EHQ231947",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "1310J",
+     "Department": "Continuing Medical Education",
+     "Serial Number": "EHQ231848",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "1310J",
+     "Department": "Continuing Medical Education",
+     "Serial Number": "EHQ229274",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "out of 535",
+     "Department": "Dentistry",
+     "Serial Number": "EHQ211257",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "512X",
+     "Department": "Dentistry",
+     "Serial Number": "EHQ211449",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "525X",
+     "Department": "Dentistry",
+     "Serial Number": "EKZ337838 ",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "545",
+     "Department": "Dentistry",
+     "Serial Number": "EKZ337935",
+     "Model": "WC7545"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "Outside room S-211",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ211611",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "Outside room S-318",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EKZ341864",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "Outside room S-221",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ231948",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "Outside room S-311",
+     "Department": "Medicine and Health Sciences",
+     "Serial Number": "EHQ231950",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "740",
+     "Department": "Psychology",
+     "Serial Number": "EHQ211267",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "740",
+     "Department": "Psychology",
+     "Serial Number": "EHQ231899",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "119A",
+     "Department": "Public machine",
+     "Serial Number": "EHQ210899",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "Outside room 479A",
+     "Department": "Public machine",
+     "Serial Number": "EHQ210905",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "213",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211387",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McGill College 2001",
+     "Room": "222",
+     "Department": "Public machine",
+     "Serial Number": "EKZ337910",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "Outside room 1434",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231886",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "1143",
+     "Department": "Epidemiology and Biostatistics",
+     "Serial Number": "EKZ338480",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "1109",
+     "Department": "Epidemiology and Biostatistics",
+     "Serial Number": "EHQ217513",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "1229",
+     "Department": "Health and Social Policy",
+     "Serial Number": "EHQ217572",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mcgill College 2001",
+     "Room": "1274",
+     "Department": "Clinical & Health Informatics",
+     "Serial Number": "EKZ338476",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "1241 Hallway",
+     "Department": "Anesthesia",
+     "Serial Number": "EHQ212378",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "In front of the elevators",
+     "Department": "Biochemistry",
+     "Serial Number": "EHQ232007",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "927",
+     "Department": "Biochemistry",
+     "Serial Number": "EKZ337709",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "129",
+     "Department": "Hazardous Waste Management",
+     "Serial Number": "EKZ337913",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "637",
+     "Department": "Institutional Review Board (Faculty of Medicine)",
+     "Serial Number": "EHQ212237",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "633",
+     "Department": "Institutional Review Board (Faculty of Medicine)",
+     "Serial Number": "EHQ212242",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "224",
+     "Department": "McIntyre Business Operations",
+     "Serial Number": "EKZ337641",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "905",
+     "Department": "Medicine",
+     "Serial Number": "EHQ212215",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "530",
+     "Department": "Medicine",
+     "Serial Number": "EHQ212243",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "Hallway, across Rm 1347",
+     "Department": "Pharmacology & Therapeutics",
+     "Serial Number": "EHQ212253",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "Ground floor/Corridor",
+     "Department": "Pharmacology & Therapeutics",
+     "Serial Number": "EKZ337657",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "1026",
+     "Department": "Physiology",
+     "Serial Number": "EHQ212255",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "1026",
+     "Department": "Physiology",
+     "Serial Number": "EHQ212307",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "2nd Floor",
+     "Department": "Public machine",
+     "Serial Number": "EKZ337969",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "2nd Floor",
+     "Department": "Public machine",
+     "Serial Number": "EKZ337973",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "4th floor hallway (410)",
+     "Department": "Public machine",
+     "Serial Number": "EHQ232020",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McIntyre Medical Building",
+     "Room": "Outside Room 717",
+     "Department": "Rosalind and Morris Goodman Cancer Centre",
+     "Serial Number": "EKZ337711",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "M4‐53B",
+     "Department": "Archives",
+     "Serial Number": "EKZ337939",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "MS‐27 Photocopier Room",
+     "Department": "Enrolment Services",
+     "Serial Number": "EHQ211657",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "MS-37-01",
+     "Department": "Enrolment Services",
+     "Serial Number": "EHQ211664",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "MS-37",
+     "Department": "Enrolment Services",
+     "Serial Number": "EHQ211727",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "MS-72",
+     "Department": "Enrolment Services",
+     "Serial Number": "EHQ211733",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "MS-80",
+     "Department": "Enrolment Services",
+     "Serial Number": "EHQ211741",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "MS-80",
+     "Department": "Enrolment Services",
+     "Serial Number": "EKZ337953 ",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "MS‐27",
+     "Department": "Enrolment Services",
+     "Serial Number": "EHQ229698",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "155B",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ211647",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "M1-12",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ212753",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "M1.12A",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ212755",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "M1.55",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ212758",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "4th floor (see front desk)",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ212761",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "MS-37/ Basement- AMLF Language Lab",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211728",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "Main Floor Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212047",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "3rd Floor Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212224 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "5th Floor Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212232 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "M2-39A",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212438",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "6th Fl Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212765",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "Main Floor Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ229974",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "MS-12",
+     "Department": "Teaching and Learning Services",
+     "Serial Number": "EHQ212763 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "M1-39",
+     "Department": "Public machine",
+     "Serial Number": "EHQ229972",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "M1-39",
+     "Department": "Public machine",
+     "Serial Number": "EHQ229952",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mclennan Library Building",
+     "Room": "M1-39",
+     "Department": "Public machine",
+     "Serial Number": "EHQ229980",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McTavish 3610",
+     "Room": "21-4",
+     "Department": "Arts - Dean's office",
+     "Serial Number": "EHQ212029",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McTavish 3610",
+     "Room": "34-2",
+     "Department": "Emergency Management and Preparedness",
+     "Serial Number": "EHQ215963",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McTavish 3610",
+     "Room": "444",
+     "Department": "Environmental Health and Safety",
+     "Serial Number": "EHQ215955",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McTavish 3610",
+     "Room": "14-4",
+     "Department": "Ombudsperson for students",
+     "Serial Number": "EKZ338499",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "McTavish 3610",
+     "Room": "25-0",
+     "Department": "Political Science",
+     "Serial Number": "EHQ216089",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "McTavish 3610",
+     "Room": "12-2",
+     "Department": "Social Equity & Diversity Education",
+     "Serial Number": "EKZ343700",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Meredith Annex",
+     "Room": "Outside room 216",
+     "Department": "Educational Services (Faculty of Medicine)",
+     "Serial Number": "EHQ213557",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "NM136",
+     "Department": "MNI Brain Imaging Center",
+     "Serial Number": "EHQ214180",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "Outside room WB210",
+     "Department": "MNI Brain Imaging Center",
+     "Serial Number": "EHQ214192",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "Outside WB‐326a (across from WB‐321)",
+     "Department": "MNI Brain Imaging Center",
+     "Serial Number": "EKZ338428",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "Outside room 776",
+     "Department": "MNI Cell Biology of Excitable Tissue Unit",
+     "Serial Number": "EHQ231708",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "Outside room 102",
+     "Department": "MNI Cell Biology of Excitable Tissue Unit",
+     "Serial Number": "EKZ338284",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "207",
+     "Department": "MNI Clinical Research Group",
+     "Serial Number": "EHQ214165",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "267A",
+     "Department": "MNI Clinical Research Unit",
+     "Serial Number": "EHQ214166",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "10",
+     "Department": "MNI Neuroimmunology Unit",
+     "Serial Number": "EKZ338105",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "285",
+     "Department": "MNI Neurological Library",
+     "Serial Number": "EHQ214197",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "Outside room 626",
+     "Department": "MNI Neuropathology Research Unit",
+     "Serial Number": "EHQ214176",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "Outside room NW321",
+     "Department": "Montreal Neurological Institute",
+     "Serial Number": "EKZ343626",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "NW204A",
+     "Department": "Montreal Neurological Institute",
+     "Serial Number": "EHQ214185",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "North Wing, Suite NWB200",
+     "Department": "Montreal Neurological Institute",
+     "Serial Number": "EHQ214188",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "NW B1 Corridor ( NWB100)",
+     "Department": "Montreal Neurological Institute",
+     "Serial Number": "EKZ338319",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "636",
+     "Department": "Montreal Neurological Institute",
+     "Serial Number": "EHQ231702",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "Outside room 896",
+     "Department": "Montreal Neurological Institute",
+     "Serial Number": "EHQ231709",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Montreal Neurological Institute",
+     "Room": "109 G",
+     "Department": "Neurology and Neurosurgery",
+     "Serial Number": "EKZ338310",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Morrice Hall",
+     "Room": "Outside room 319",
+     "Department": "Islamic Studies",
+     "Serial Number": "EHQ211454",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Morrice Hall",
+     "Room": "Outside room 319",
+     "Department": "Islamic Studies",
+     "Serial Number": "EHQ211568",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Morrice Hall",
+     "Room": "Main Floor",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EKZ338236",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Morrice Hall",
+     "Room": "207",
+     "Department": "Public machine",
+     "Serial Number": "EKZ340768",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Morrice Hall",
+     "Room": "1st floor hallway",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338153",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Mountain 3605",
+     "Room": "113",
+     "Department": "Medicine",
+     "Serial Number": "EHQ216440",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mountain 3605",
+     "Room": "211",
+     "Department": "Medicine",
+     "Serial Number": "EHQ216451",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mountain 3605",
+     "Room": "313",
+     "Department": "Medicine",
+     "Serial Number": "EHQ216507",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Mountain 3605",
+     "Room": "Basement",
+     "Department": "Medicine",
+     "Serial Number": "EHQ216583",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "New Residence Hall",
+     "Room": "Outside room A14",
+     "Department": "Public machine",
+     "Serial Number": "EHQ214253",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "New Residence Hall",
+     "Room": "Outside Room RC‐25",
+     "Department": "Public machine",
+     "Serial Number": "EHQ216963",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "New Residence Hall",
+     "Room": "Reception Office",
+     "Department": "Residences & Student Housing",
+     "Serial Number": "EHQ214242",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Parasitology Institute",
+     "Room": "A1-07 / A1027",
+     "Department": "Parasitology",
+     "Serial Number": "EHQ210890",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Parc Avenue 3575 (La Cite)",
+     "Room": "A007",
+     "Department": "McGill Medical Simulation Centre",
+     "Serial Number": "EHQ232069",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 1555",
+     "Room": "900",
+     "Department": "Development & Alumni Relations Services",
+     "Serial Number": "EHQ210623",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 1555",
+     "Room": "1027",
+     "Department": "Vice-Principal, University Advancement",
+     "Serial Number": "EHQ210625",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 1555",
+     "Room": "1001",
+     "Department": "Vice-Principal, University Advancement",
+     "Serial Number": "EKZ338509",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Peel 3437",
+     "Room": "2nd Floor",
+     "Department": "MACES",
+     "Serial Number": "EKZ338510",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Peel 3487",
+     "Room": "2‐HALL",
+     "Department": "Gender, Sexuality and Feminist Studies",
+     "Serial Number": "EKZ338514",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Peel 3491",
+     "Room": "2nd Floor",
+     "Department": "McGill Community Infant-Toddler Family Centre",
+     "Serial Number": "EHQ210953",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 3495",
+     "Room": "201",
+     "Department": "McGill Association of University Teachers",
+     "Serial Number": "EHQ211030",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 3505 (First People's House)",
+     "Room": "Main floor",
+     "Department": "First Peoples' House at McGill",
+     "Serial Number": "EHQ211048",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 3647",
+     "Room": "308",
+     "Department": "Biomedical Ethics Unit",
+     "Serial Number": "EHQ211493",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 3647",
+     "Room": "107",
+     "Department": "Social Studies of Medicine",
+     "Serial Number": "EHQ211496",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 3647",
+     "Room": "206",
+     "Department": "Social Studies of Medicine",
+     "Serial Number": "EKZ343712",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Peel 3661",
+     "Room": "Hallway",
+     "Department": "Information Studies",
+     "Serial Number": "EHQ213306",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 3674",
+     "Room": "205",
+     "Department": "Law",
+     "Serial Number": "EHQ211076",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 3690",
+     "Room": "206",
+     "Department": "Law",
+     "Serial Number": "EHQ211065",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peel 3715",
+     "Room": "212H",
+     "Department": "Integrated Studies in Education",
+     "Serial Number": "EHQ211077",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "room 2204",
+     "Department": "Bone & Periodontal Research",
+     "Serial Number": "EKZ338272",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "5200",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EHQ211701",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "3300",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338618",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "4203",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338620",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "4200",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338627",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "5300",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338628",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "5400",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338629",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "6100",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338632",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "6210",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338691",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "6300",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338692",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "7102",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338695",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "7207",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338697 ",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "7500",
+     "Department": "McGill University and Genome Quebec Innovation Centre",
+     "Serial Number": "EKZ338699",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 740 (Genome)",
+     "Room": "Outside room 3300",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338279",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Penfield 1085",
+     "Room": "111",
+     "Department": "Linguistics",
+     "Serial Number": "EHQ217543",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Peterson Hall",
+     "Room": "50",
+     "Department": "Facilities Operations",
+     "Serial Number": "EKZ338237",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Peterson Hall",
+     "Room": "208",
+     "Department": "Society, Technology and Development",
+     "Serial Number": "EHQ212031",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Pine Cottage",
+     "Room": "main floor",
+     "Department": "Morgan Arboretum Association",
+     "Serial Number": "EKZ338523",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Pulp & Paper Building",
+     "Room": "112B",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215195",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Rabinovitch House",
+     "Room": "101",
+     "Department": "Research on Brain, Language and Music",
+     "Serial Number": "EKZ338484",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Raymond Building",
+     "Room": "Outside room R3-032",
+     "Department": "Development & Alumni Relations Services",
+     "Serial Number": "EHQ229248",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Raymond Building",
+     "Room": "Outside room R2-021",
+     "Department": "Plant Science",
+     "Serial Number": "EHQ228105",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "2ND FLOOR-R2‐00G",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ212593",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "RB-09A",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EKZ337937",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "2",
+     "Department": "McGill Writing Centre",
+     "Serial Number": "EHQ212677",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "R2-19",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212558",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "348",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212709",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "Main Floor - Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212724",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "RM 07",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212739 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "Hallway main floor",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212766",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "RS40A",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212770",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "RS-22",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212773",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "R2‐00",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212780",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "R2‐00F",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212798",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "RS50‐H",
+     "Department": "Students With Disabilities",
+     "Serial Number": "EHQ212638",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Library Building",
+     "Room": "RS‐56",
+     "Department": "Students With Disabilities",
+     "Serial Number": "EHQ229981",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Redpath Museum",
+     "Room": "BASEMENT Room 001",
+     "Department": "Redpath Museum",
+     "Serial Number": "EHQ211587",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Carrefour Sherbrooke Residence",
+     "Room": "2002",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231679",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Carrefour Sherbrooke Residence",
+     "Room": "201",
+     "Department": "Residences & Student Housing",
+     "Serial Number": "EHQ215227",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Carrefour Sherbrooke Residence",
+     "Room": "207",
+     "Department": "Residences & Student Housing",
+     "Serial Number": "EHQ215228",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "University Hall Residence",
+     "Room": "Outside room 09",
+     "Department": "Residences & Student Housing",
+     "Serial Number": "EHQ231671",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Robertson Eco-Residence 1",
+     "Room": "Ecoresidence-common room",
+     "Department": "Residences & Student Housing",
+     "Serial Number": "EKZ338515",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Rowles House",
+     "Room": "Room 17",
+     "Department": "McGill School of Environment",
+     "Serial Number": "EHQ210900",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Royal Victoria College Residence",
+     "Room": "RM W122",
+     "Department": "Dean of Students",
+     "Serial Number": "EKZ338728",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Royal Victoria College Residence",
+     "Room": "Main Hall, next to windows",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215405",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Rutherford Physics Building",
+     "Room": "103",
+     "Department": "Physics",
+     "Serial Number": "EHQ211765",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Rutherford Physics Building",
+     "Room": "350",
+     "Department": "Physics",
+     "Serial Number": "EHQ211767",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1210",
+     "Department": "Admissions Office (Faculty of Medicine)",
+     "Serial Number": "EHQ217134",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "Outside room 1024",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ210959",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "Outside room 1115",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ211054",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1156",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ213292",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1006",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ213315",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1050",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ213342",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1103",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ217064",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1200",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ217066",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "618",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ232063 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "500X",
+     "Department": "Facilities Administration Downtown",
+     "Serial Number": "EHQ232054",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "2202",
+     "Department": "McCall Macbain Foundation",
+     "Serial Number": "EHQ232065",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1408",
+     "Department": "McGill-Queens University Press",
+     "Serial Number": "EHQ213302",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "Outside room 1705",
+     "Department": "McGill-Queens University Press",
+     "Serial Number": "EHQ213314",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1720",
+     "Department": "McGill-Queens University Press",
+     "Serial Number": "EHQ217067",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1230P",
+     "Department": "Medicine and Health Sciences",
+     "Serial Number": "EKZ338744",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "700",
+     "Department": "Procurement Services",
+     "Serial Number": "EHQ210778",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1514",
+     "Department": "Student Services",
+     "Serial Number": "E1B088853",
+     "Model": "WC6655"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "204",
+     "Department": "Student Services",
+     "Serial Number": "EHQ217083",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "410",
+     "Department": "Students With Disabilities",
+     "Serial Number": "EHQ217105",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 1010",
+     "Room": "1826",
+     "Department": "Vice-Principal (Research and Innovation)",
+     "Serial Number": "EKZ343734",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 550",
+     "Room": "Outside room 158",
+     "Department": "Arts - Dean's Office",
+     "Serial Number": "EHQ211793 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 550",
+     "Room": "Outside room 118",
+     "Department": "School of Social Work",
+     "Serial Number": "EHQ211807",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 550",
+     "Room": "Outside room 186",
+     "Department": "Arts - Dean's Office",
+     "Serial Number": "EHQ212160",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 550",
+     "Room": "585 West Tower",
+     "Department": "Dean of Students",
+     "Serial Number": "EKZ338745",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 550",
+     "Room": "680",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ215246",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 550",
+     "Room": "680",
+     "Department": "McGill University Libraries (Administration)",
+     "Serial Number": "EHQ215249",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 550",
+     "Room": "West Tower, room 775",
+     "Department": "Medicine",
+     "Serial Number": "EKZ338754",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 550",
+     "Room": "1010",
+     "Department": "Provost & Vice-Principal (Academic)",
+     "Serial Number": "EHQ211814",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "500",
+     "Department": "Application Services,  Student, Teaching  & Research",
+     "Serial Number": "EHQ210789",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "500",
+     "Department": "Application Services,  Student, Teaching  & Research",
+     "Serial Number": "EHQ215213 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1029",
+     "Department": "Career & Professional Development",
+     "Serial Number": "EHQ210826",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1125",
+     "Department": "Client Services",
+     "Serial Number": "EHQ210311",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1171",
+     "Department": "Client Services",
+     "Serial Number": "EHQ210351",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1199",
+     "Department": "Client Services",
+     "Serial Number": "EHQ210637",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1181",
+     "Department": "Client Services",
+     "Serial Number": "EHQ210860",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1199",
+     "Department": "Client Services",
+     "Serial Number": "EKZ338389",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1230",
+     "Department": "Continuing Studies - Dean's Office",
+     "Serial Number": "EHQ210640",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1240",
+     "Department": "Continuing Studies - Dean's Office",
+     "Serial Number": "EHQ210649",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1140",
+     "Department": "Continuing Studies - Dean's Office",
+     "Serial Number": "EHQ210834",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Beside 229",
+     "Department": "Continuing Studies - Dean's Office",
+     "Serial Number": "EKZ337670",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "8th Floor",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EHQ210207",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "8th Fl",
+     "Department": "Desautels Faculty of Management",
+     "Serial Number": "EKZ337592",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "217",
+     "Department": "East Asian Studies",
+     "Serial Number": "EHQ215194",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "750",
+     "Department": "Enrolment Services",
+     "Serial Number": "EHQ215221",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "14 floor /close to the kitchen",
+     "Department": "Human Resources",
+     "Serial Number": "EHQ210365",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1536",
+     "Department": "Human Resources",
+     "Serial Number": "EHQ210684",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 1532",
+     "Department": "Human Resources",
+     "Serial Number": "EHQ215142",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "outside 1565",
+     "Department": "Human Resources",
+     "Serial Number": "EHQ215184",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "outside 1582",
+     "Department": "Human Resources",
+     "Serial Number": "EHQ215187",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1520",
+     "Department": "Human Resources",
+     "Serial Number": "EKZ337829",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1420",
+     "Department": "Human Resources",
+     "Serial Number": "EHQ229418",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 1623",
+     "Department": "Information Technology Customer Services",
+     "Serial Number": "EHQ210703",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 1677",
+     "Department": "Information Technology Customer Services",
+     "Serial Number": "EHQ215190",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "285",
+     "Department": "Information Technology Customer Services",
+     "Serial Number": "EKZ337743",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "730 Hallway",
+     "Department": "Information Technology Services",
+     "Serial Number": "EKZ337656",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 1642",
+     "Department": "Information Technology Services",
+     "Serial Number": "EKZ343645",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 2027",
+     "Department": "Ingram School of Nursing",
+     "Serial Number": "EHQ231759",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1845A",
+     "Department": "Ingram School of Nursing",
+     "Serial Number": "EHQ210879",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 1937",
+     "Department": "Ingram School of Nursing",
+     "Serial Number": "EHQ230145",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 2018",
+     "Department": "Ingram School of Nursing",
+     "Serial Number": "EHQ231649",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 1816",
+     "Department": "Ingram School of Nursing",
+     "Serial Number": "EHQ230110",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 1912",
+     "Department": "Ingram School of Nursing",
+     "Serial Number": "EHQ230128",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1081",
+     "Department": "Instructor Services & Educational Technologies",
+     "Serial Number": "EHQ215239",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1076",
+     "Department": "Continuing Studies - Dean's Office",
+     "Serial Number": "EHQ215241",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1317",
+     "Department": "Instructor Services & Educational Technologies",
+     "Serial Number": "EHQ215244",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1317",
+     "Department": "Instructor Services & Educational Technologies",
+     "Serial Number": "EKZ337666",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 803",
+     "Department": "Interdisciplinary Research on Montreal (CIRM)",
+     "Serial Number": "EHQ231712",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1390",
+     "Department": "Internal Audit Department",
+     "Serial Number": "EHQ210658",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1490",
+     "Department": "Investments",
+     "Serial Number": "EHQ210659",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "318",
+     "Department": "Languages, Literatures, and Cultures",
+     "Serial Number": "EHQ215201",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "405",
+     "Department": "Languages, Literatures, and Cultures",
+     "Serial Number": "EHQ215208",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "6‐UP1",
+     "Department": "Max Bell School of Public Policy",
+     "Serial Number": "EHQ210612",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Basement ‐ shipping",
+     "Department": "McGill Bookstore",
+     "Serial Number": "EHQ210814",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "17th floor hallway",
+     "Department": "Medicine",
+     "Serial Number": "EHQ215192",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1703",
+     "Department": "Medicine",
+     "Serial Number": "EHQ215193",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 1701",
+     "Department": "Medicine and Health Sciences",
+     "Serial Number": "EHQ230054",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "900 - Open area",
+     "Department": "Medicine and Health Sciences",
+     "Serial Number": "EKZ343646",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1450",
+     "Department": "Project Management Office",
+     "Serial Number": "EHQ210675",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1041",
+     "Department": "Public machine",
+     "Serial Number": "EHQ210892",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "1104‐HALL",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215245 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "Outside room 1279",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215247 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "2nd floor hallway (right)",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215338",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Sherbrooke 680",
+     "Room": "2nd floor hallway (left)",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338033",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Solin Hall",
+     "Room": "100",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211617",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Solin Hall",
+     "Room": "100",
+     "Department": "Public machine",
+     "Serial Number": "EHQ232090",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Stewart Athletic Complex",
+     "Room": "Main Floor",
+     "Department": "Macdonald Campus Dept of Athletics",
+     "Serial Number": "EHQ214228",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Stewart Biology Building",
+     "Room": "N8/11",
+     "Department": "Biology",
+     "Serial Number": "EHQ215370",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Stewart Biology Building",
+     "Room": "N8/11",
+     "Department": "Biology",
+     "Serial Number": "EKZ338470",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Stewart Biology Building",
+     "Room": "2nd floor S Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ216146",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Stewart Park 3",
+     "Room": "1st Floor",
+     "Department": "Brace Centre for Water Resouce Management",
+     "Serial Number": "EKZ338525",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Strathcona Music Building",
+     "Room": "E‐201",
+     "Department": "McGill Conservatory of Music",
+     "Serial Number": "EHQ215317",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Strathcona Music Building",
+     "Room": "Outside room E-214",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215248",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Strathcona Music Building",
+     "Room": "Outside Cafeteria; on the left",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215252",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Strathcona Music Building",
+     "Room": "E105",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338758",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Strathcona Music Building",
+     "Room": "E-226",
+     "Department": "Schulich School of Music",
+     "Serial Number": "EHQ231694",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Strathcona, Anatomy and Dentistry",
+     "Room": "Outside Rm 1/49",
+     "Department": "Anatomy and Cell Biology",
+     "Serial Number": "EKZ338287",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Strathcona, Anatomy and Dentistry",
+     "Room": "Outside room 1/31",
+     "Department": "Anatomy and Cell Biology",
+     "Serial Number": "EHQ231518",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Strathcona, Anatomy and Dentistry",
+     "Room": "Outside room M/30",
+     "Department": "Anatomy and Cell Biology",
+     "Serial Number": "EHQ231638",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Strathcona, Anatomy and Dentistry",
+     "Room": "M/5C",
+     "Department": "Gerald Bronfman Building Department of Oncology",
+     "Serial Number": "EHQ211776",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Strathcona, Anatomy and Dentistry",
+     "Room": "W315",
+     "Department": "Human Genetics",
+     "Serial Number": "EHQ231653",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Strathcona, Anatomy and Dentitry",
+     "Room": "Anatomy Library 2/21-24",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338600",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Thomson House",
+     "Room": "401",
+     "Department": "Post-Graduate Students' Society",
+     "Serial Number": "EHQ217191",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Trottier Building",
+     "Room": "2060",
+     "Department": "Electrical and Computer Engineering",
+     "Serial Number": "EKZ338274",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Trottier Building",
+     "Room": "Outside room 1080",
+     "Department": "Public machine",
+     "Serial Number": "EHQ210745",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Trottier Building",
+     "Room": "100",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215217",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Trottier Building",
+     "Room": "3007",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215218",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Trottier Building",
+     "Room": "4007",
+     "Department": "Public machine",
+     "Serial Number": "EHQ215219 ",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Trottier Building",
+     "Room": "5007",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231390",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Trottier Building",
+     "Room": "Outside room 4090",
+     "Department": "Public machine",
+     "Serial Number": "EHQ230888",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Trottier Building",
+     "Room": "Outside room 5090",
+     "Department": "Public machine",
+     "Serial Number": "EHQ231396",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "University 3534",
+     "Room": "21",
+     "Department": "McGill School of Environment",
+     "Serial Number": "EKZ337977",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "University 3575",
+     "Room": "Lobby",
+     "Department": "Public machine",
+     "Serial Number": "EHQ216973",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "University 3661",
+     "Room": "1st floor",
+     "Department": "MNI Communications and Development Office",
+     "Serial Number": "EHQ214203",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "University Centre",
+     "Room": "1st floor",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211718",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Wong Building",
+     "Room": "3060",
+     "Department": "Chemical Engineering",
+     "Serial Number": "EHQ212190",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Wong Building",
+     "Room": "2140",
+     "Department": "Mining and Materials",
+     "Serial Number": "EHQ212183",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Wong Building",
+     "Room": "3rd Floor Hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ211820",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Wong Building",
+     "Room": "Main floor hallway",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212175",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Wong Building",
+     "Room": "2430",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338270",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Wong Building",
+     "Room": "Outside room 4260",
+     "Department": "Public machine",
+     "Serial Number": "EHQ212939",
+     "Model": "Altalink C8155"
+   },
+   {
+     "Building Name": "Wong Building",
+     "Room": "Outside room 5240",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338613",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Wong Building",
+     "Room": "Outside room 6250",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338614",
+     "Model": "Altalink C8135"
+   },
+   {
+     "Building Name": "Wong Building",
+     "Room": "outside room 7250",
+     "Department": "Public machine",
+     "Serial Number": "EKZ338615",
+     "Model": "Altalink C8135"
+   }
+ ]
