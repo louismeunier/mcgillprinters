@@ -69,28 +69,11 @@
     {#each printers as printer (printer["Serial Number"])}
     <tr>
       {#if search && (printer["Building Name"].toLowerCase().includes(search.toLowerCase()) || printer["Department"].toLowerCase().includes(search.toLowerCase()))}
-          <td on:click={()=>{
-            map.eachLayer(function (layer) {
-              if (layer?.feature?.properties?.name == printer["Building Name"]) {
-                map.setView(layer.getBounds().getCenter(), 17, {duration: 0.5, animate: true});
-                // click on layer
-                map.openPopup(layer.getPopup());
-              }
-            });
-          }}>{printer["Building Name"]}</td>
+          <td>{printer["Building Name"]}</td>
           <td>{printer["Room"]}</td>
           <td>{printer["Department"]}</td>
         {:else if !search}
-          <td on:click={()=>{
-            map.eachLayer(function (layer) {
-              if (layer.feature && layer.feature.properties.name == printer["Building Name"]) {
-                map.setView(layer.getBounds().getCenter(), 17, {duration: 0.5, animate: true});
-                // click on layer
-                map.openPopup(layer.getPopup());
-              }
-            });
-          }}
-          >{printer["Building Name"]}</td>
+          <td >{printer["Building Name"]}</td>
           <td>{printer["Room"]}</td>
           <td>{printer["Department"]}</td>
       {/if}
@@ -163,10 +146,6 @@
     /* margin-top: 5em; */
   }
 
-  em {
-/* underline */
-  text-decoration: underline;
-  }
   .title {
     /* margin-top: 1em; */
     font-style: italic;
@@ -201,3 +180,12 @@
     border: 1px solid lightcoral;
   }
 </style>
+
+<!-- on:click={()=>{
+            map.eachLayer(function (layer) {
+              if (layer.feature && layer.feature.properties.name == printer["Building Name"]) {
+                map.setView(layer.getBounds().getCenter(), 17, {duration: 0.5, animate: true});
+                // click on layer
+                map.openPopup(layer.getPopup());
+              }
+            }); -->
