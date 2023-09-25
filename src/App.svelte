@@ -57,7 +57,7 @@
     <div class="title">
       <h1><span>McGill</span> Printers</h1> 
       <hr/>
-      <h2>map/search uprint printers; note that not all are guaranteed to be public access</h2>
+      <h2>is it up-to-date? <a href="https://mcgill.service-now.com/itportal?id=kb_article_view&sysparm_article=KB0010984&sys_kb_id=3e3698f497fa9d10200579cfe153af71&spa=1" target="_blank">nope.</a> (unless you're trying to print 2 years ago)</h2>
     </div>
   <input type="text" bind:value="{search}" placeholder="Filter building/department"/>
   <table class="search-results">
