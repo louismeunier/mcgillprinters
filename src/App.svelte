@@ -5,8 +5,9 @@
   import "leaflet/dist/leaflet.css";
   import buildings from "./buildings.json?raw"
   import printers from "./building-printers.json";
-
   let search;
+
+
 
 
   let map
@@ -17,6 +18,15 @@
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
   }).addTo(map);
 
+  // const arr1 = JSON.parse(buildings)["features"].map(a => a.properties.name)
+  //   // console.log([... new Set(names_buildings)])
+  //   const arr2 = printers.map(a=>a['Building Name'])
+  //   // console.log([... new Set(names_printers)])
+
+  //   const diff = arr1.filter(x => !arr2.includes(x))
+  //                       .concat(arr2.filter(x => !arr1.includes(x)));
+
+  //                       console.log([... new Set(diff)])
   // add buildings.json features to map
   L.geoJSON(JSON.parse(buildings),
   {
@@ -48,6 +58,11 @@
   search = "";
 });
 });
+
+console.log([... new Set(printers.map(a => a.Model))].map(a => {
+  return [a, printers.filter(b => b.Model == a).length]
+}))
+
 </script>
 
 <main>
@@ -55,11 +70,12 @@
   <div>
   <div class="rhs">
     <div class="title">
-      <h1><span>McGill</span> Printers</h1> 
+  <h1><span>McGill</span> Printers</h1> 
       <hr/>
-      <h2>is it up-to-date? <a href="https://mcgill.service-now.com/itportal?id=kb_article_view&sysparm_article=KB0010984&sys_kb_id=3e3698f497fa9d10200579cfe153af71&spa=1" target="_blank">nope.</a> (unless you're trying to print 2 years ago)</h2>
+      <span>Up-to-date: <a href="https://mcgill.service-now.com/itportal?id=kb_article_view&sysparm_article=KB0010984&sys_kb_id=3e3698f497fa9d10200579cfe153af71&spa=1" target="_blank">November 2023</a>. </span>
+      <span>Not associated with McGill.</span>
     </div>
-  <input type="text" bind:value="{search}" placeholder="Filter building/department"/>
+    <input type="text" bind:value="{search}" placeholder="Filter building/department"/>
   <table class="search-results">
     <thead>
       <th>Building</th>
@@ -79,9 +95,19 @@
       {/if}
     {/each}
     </table>
-    <div class="footer">
-      <span>Not associated with McGill</span>
-    </div>
+
+    <!-- <div>
+      <p>Total: {printers.length}</p>
+      <p>Most Popular Model: {[... new Set(printers.map(a => a.Model))].map(a => {
+        return [a, printers.filter(b => b.Model == a).length]
+      })[0][0]} ({[... new Set(printers.map(a => a.Model))].map(a => {
+        return [a, printers.filter(b => b.Model == a).length]
+      })[0][1]})</p>
+      <!-- <p>Printer-est Building: </p> -->
+    <!-- </div> --> -->
+    <!-- <div class="footer"> -->
+      
+    <!-- </div> -->
   </div>
   
 </div>
@@ -111,14 +137,13 @@
     width: 90%;
     margin-top: 1em;
     /* margin-bottom: em; */
-
+    border-radius: 2em;
   }
 
   .search-results th,
   .search-results td {
     padding: 0.5rem;
     border: 1px solid black;
-
     background-color: lightgray;
   }
 
@@ -165,19 +190,25 @@
   }
 
   .footer {
-    /* position: sticky; */
-    /* bottom: 0; */
+    position: fixed;
+    bottom: 0;
     /* margin-top: -4em; */
     color: lightcoral;
     font-size: 0.8em;
     font-style: italic;
     text-align: center;
+    margin-bottom: 1em;
     /* width: 100%; */
   }
 
   hr {
     width: 15%;
     border: 1px solid lightcoral;
+  }
+
+  .title> span {
+    font-size: 0.8em;
+    color:black;
   }
 </style>
 

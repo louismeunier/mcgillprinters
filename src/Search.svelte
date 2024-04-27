@@ -1,7 +1,7 @@
 <script lang="ts">
     let search;
 
-    import printers from "./building-printers.json";
+    import printers from "./_building-printers.json";
     console.log(printers);
 </script>
 
