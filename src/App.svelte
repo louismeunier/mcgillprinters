@@ -5,6 +5,63 @@
   import "leaflet/dist/leaflet.css";
   import buildings from "./buildings.json?raw"
   import printers from "./building-printers.json";
+
+  type PrinterRow = {
+    [key: string]: unknown;
+    "Building Name": string;
+  };
+
+  function getBuildingWithMostPrinters(rows: readonly PrinterRow[]): { name: string; count: number } {
+    const byBuilding = new Map<
+      string,
+      { count: number; displayNameCounts: Map<string, number> }
+    >();
+
+    for (const row of rows) {
+      const rawName = row["Building Name"];
+      const displayName = typeof rawName === "string" ? rawName.trim() : String(rawName ?? "").trim();
+      const key = displayName.toLowerCase();
+      if (!key) continue;
+
+      const existing = byBuilding.get(key);
+      if (existing) {
+        existing.count += 1;
+        existing.displayNameCounts.set(displayName, (existing.displayNameCounts.get(displayName) ?? 0) + 1);
+      } else {
+        byBuilding.set(key, {
+          count: 1,
+          displayNameCounts: new Map([[displayName, 1]])
+        });
+      }
+    }
+
+    let bestKey: string | null = null;
+    let bestCount = -1;
+    for (const [key, { count }] of byBuilding) {
+      if (count > bestCount) {
+        bestKey = key;
+        bestCount = count;
+      }
+    }
+
+    if (!bestKey) return { name: "", count: 0 };
+
+    const best = byBuilding.get(bestKey);
+    if (!best) return { name: "", count: 0 };
+
+    let bestDisplayName = "";
+    let bestDisplayCount = -1;
+    for (const [name, count] of best.displayNameCounts) {
+      if (count > bestDisplayCount) {
+        bestDisplayName = name;
+        bestDisplayCount = count;
+      }
+    }
+
+    return { name: bestDisplayName, count: best.count };
+  }
+
+  const printerestBuilding = getBuildingWithMostPrinters(printers as PrinterRow[]);
   let search;
 
 
@@ -72,8 +129,24 @@ console.log([... new Set(printers.map(a => a.Model))].map(a => {
     <div class="title">
   <h1><span>McGill</span> Printers</h1> 
       <hr/>
-      <span>Up-to-date: <a href="https://mcgill.service-now.com/itportal?id=kb_article_view&sysparm_article=KB0010984&sys_kb_id=3e3698f497fa9d10200579cfe153af71&spa=1" target="_blank">November 2023</a>. </span>
-      <span>Not associated with McGill.</span>
+      
+      <div>
+      <p>Total: {printers.length} printers</p>
+      <p>Most Popular Model: {[... new Set(printers.map(a => a.Model))].map(a => {
+        return [a, printers.filter(b => b.Model == a).length]
+      })[0][0]} ({[... new Set(printers.map(a => a.Model))].map(a => {
+        return [a, printers.filter(b => b.Model == a).length]
+      })[0][1]})</p>
+      <p>
+        Printer-est Building:
+        {#if printerestBuilding.name}
+          {printerestBuilding.name} ({printerestBuilding.count})
+        {:else}
+          —
+        {/if}
+      </p>
+      
+    </div>
     </div>
     <input type="text" bind:value="{search}" placeholder="Filter building/department"/>
   <table class="search-results">
@@ -95,19 +168,11 @@ console.log([... new Set(printers.map(a => a.Model))].map(a => {
       {/if}
     {/each}
     </table>
-
-    <!-- <div>
-      <p>Total: {printers.length}</p>
-      <p>Most Popular Model: {[... new Set(printers.map(a => a.Model))].map(a => {
-        return [a, printers.filter(b => b.Model == a).length]
-      })[0][0]} ({[... new Set(printers.map(a => a.Model))].map(a => {
-        return [a, printers.filter(b => b.Model == a).length]
-      })[0][1]})</p>
-      <!-- <p>Printer-est Building: </p> -->
-    <!-- </div> --> -->
-    <!-- <div class="footer"> -->
+<span>Up-to-date: <a href="https://mcgill.service-now.com/itportal?id=kb_article_view&sysparm_article=KB0010984" target="_blank">March 2025</a>. </span>
+      <span>Not associated with McGill.</span>
+    <div class="footer">
       
-    <!-- </div> -->
+    </div>
   </div>
   
 </div>
