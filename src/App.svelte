@@ -96,7 +96,7 @@
       };
     }}
   ).bindPopup(function (layer) {
-    const buildingPrinters = printers.filter(a => a['Building Name'] == layer.feature.properties.name);
+    const buildingPrinters = printers.filter(a => a['Building Name'] == layer.feature.properties.name || a['Building Name'] + " Building" == layer.feature.properties.name);
     return `
     ${layer.feature.properties.name}
     <br/>
@@ -157,7 +157,11 @@ console.log([... new Set(printers.map(a => a.Model))].map(a => {
     </thead>
     {#each printers as printer (printer["Serial Number"])}
     <tr>
-      {#if search && (printer["Building Name"].toLowerCase().includes(search.toLowerCase()) || printer["Department"].toLowerCase().includes(search.toLowerCase()))}
+      {#if search && (
+        printer["Building Name"].toLowerCase().includes(search.toLowerCase()) || 
+        printer["Department"].toLowerCase().includes(search.toLowerCase()) ||
+        (printer["Building Name"] + " building").toLowerCase().includes(search.toLowerCase())
+        )}
           <td>{printer["Building Name"]}</td>
           <td>{printer["Room"]}</td>
           <td>{printer["Department"]}</td>
